@@ -16,6 +16,7 @@ import com.example.administrator.inputtest.listener.CustomGlobalLayoutListener;
 
 /**
  * 注意：软键盘的弹出需要在主配置文件里面配置参数
+ *
  */
 public class MainActivity extends AppCompatActivity {
 
